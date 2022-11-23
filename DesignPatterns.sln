@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_FactoryMethod", "1_Factor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_AbstractFactory", "2_AbstractFactory\2_AbstractFactory.csproj", "{3EE3959E-BD8C-4B1E-AD85-C49D2A7C99F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Singleton", "3_Singleton\3_Singleton.csproj", "{A7430E03-2685-4EFE-B878-84F168AA7A32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,14 @@ Global
 		{3EE3959E-BD8C-4B1E-AD85-C49D2A7C99F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3EE3959E-BD8C-4B1E-AD85-C49D2A7C99F4}.Release|x86.ActiveCfg = Release|Any CPU
 		{3EE3959E-BD8C-4B1E-AD85-C49D2A7C99F4}.Release|x86.Build.0 = Release|Any CPU
+		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Debug|x86.Build.0 = Debug|Any CPU
+		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Release|x86.ActiveCfg = Release|Any CPU
+		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
