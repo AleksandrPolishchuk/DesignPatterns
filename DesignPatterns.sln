@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_AbstractFactory", "2_Abst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Singleton", "3_Singleton\3_Singleton.csproj", "{A7430E03-2685-4EFE-B878-84F168AA7A32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Prototype", "4_Prototype\4_Prototype.csproj", "{8F220432-5661-447B-BF2F-2203C8FF772D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,14 @@ Global
 		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Release|x86.ActiveCfg = Release|Any CPU
 		{A7430E03-2685-4EFE-B878-84F168AA7A32}.Release|x86.Build.0 = Release|Any CPU
+		{8F220432-5661-447B-BF2F-2203C8FF772D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F220432-5661-447B-BF2F-2203C8FF772D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F220432-5661-447B-BF2F-2203C8FF772D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8F220432-5661-447B-BF2F-2203C8FF772D}.Debug|x86.Build.0 = Debug|Any CPU
+		{8F220432-5661-447B-BF2F-2203C8FF772D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F220432-5661-447B-BF2F-2203C8FF772D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F220432-5661-447B-BF2F-2203C8FF772D}.Release|x86.ActiveCfg = Release|Any CPU
+		{8F220432-5661-447B-BF2F-2203C8FF772D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +60,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2250C1CB-BA5D-40B8-8AAC-57F6787A1F77} = {9E8E16C6-8838-4608-9FA7-A406F12AFE9E}
 		{3EE3959E-BD8C-4B1E-AD85-C49D2A7C99F4} = {9E8E16C6-8838-4608-9FA7-A406F12AFE9E}
+		{A7430E03-2685-4EFE-B878-84F168AA7A32} = {9E8E16C6-8838-4608-9FA7-A406F12AFE9E}
+		{8F220432-5661-447B-BF2F-2203C8FF772D} = {9E8E16C6-8838-4608-9FA7-A406F12AFE9E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {80B8C7DD-74A9-415B-9384-A666217C9993}
