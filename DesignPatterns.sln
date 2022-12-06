@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7_Observer", "7_Observer\7_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8_Command", "8_Command\8_Command.csproj", "{CFEFFECC-76A6-45E3-8F4B-F6E124FAC4AF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9_Template_Method", "9_Template_Method\9_Template_Method.csproj", "{54B556B7-E59F-487E-BC04-1627B8162CA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9_TemplateMethod", "9_Template_Method\9_TemplateMethod.csproj", "{54B556B7-E59F-487E-BC04-1627B8162CA6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Iterator", "10_Iterator\10_Iterator.csproj", "{E6C45176-0F4A-443F-A737-828D2A4A5CA5}"
 EndProject
