@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_State", "11_State\11_Sta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_ChainOfResponsibility", "12_ChainOfResponsibility\12_ChainOfResponsibility.csproj", "{67286EFE-D73B-430E-947B-7D6BC42E3F2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Interpreter", "13_Interpreter\13_Interpreter.csproj", "{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,14 @@ Global
 		{67286EFE-D73B-430E-947B-7D6BC42E3F2D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{67286EFE-D73B-430E-947B-7D6BC42E3F2D}.Release|x86.ActiveCfg = Release|Any CPU
 		{67286EFE-D73B-430E-947B-7D6BC42E3F2D}.Release|x86.Build.0 = Release|Any CPU
+		{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43}.Debug|x86.Build.0 = Debug|Any CPU
+		{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43}.Release|x86.ActiveCfg = Release|Any CPU
+		{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -152,6 +162,7 @@ Global
 		{E6C45176-0F4A-443F-A737-828D2A4A5CA5} = {DC655F9C-022E-4ED1-9024-1F71DD28C078}
 		{948B8EEA-8177-4385-BBB4-4BFDBEA7E1E1} = {DC655F9C-022E-4ED1-9024-1F71DD28C078}
 		{67286EFE-D73B-430E-947B-7D6BC42E3F2D} = {DC655F9C-022E-4ED1-9024-1F71DD28C078}
+		{3E97F4FF-CA80-4F7E-B6FA-6166E8030C43} = {DC655F9C-022E-4ED1-9024-1F71DD28C078}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {80B8C7DD-74A9-415B-9384-A666217C9993}
